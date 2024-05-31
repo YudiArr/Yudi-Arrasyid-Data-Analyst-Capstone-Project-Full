@@ -16,3 +16,28 @@ When the data is ready you will then want to apply statistical techniques to ana
 Then bring all of your information together by using IBM Cognos Analytics to create your dashboard. And finally, show off your storytelling skills by sharing your findings in a presentation.
 
 You will be evaluated using quizzes in each module as well as the final project presentation.
+
+Syllabus
+Module 1: Data Collection
+Collecting Data Using APIs
+Collecting Data Using Webscraping
+Exploring Data
+Module 2: Data Wrangling
+Finding Missing Values
+Determine Missing Values
+Finding Duplicates
+Removing Duplicates
+Normalizing Data
+Module 3: Exploratory Data Analysis
+Distribution
+Outliers
+Correlation
+Module 4: Data Visualization
+Visualizing Distribution of Data
+Relationship
+Composition
+Comparison
+Module 5: Dashboard Creation
+Dashboards
+Module 6: Presentation of Findings
+Final Presentation
